@@ -1,0 +1,17 @@
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1250px;
+  margin: 0 auto;
+  border: 1px solid blue;
+  padding: 10px 100px;
+  background-color: blue;
+}
+
+.page {
+  background-color: rgb(223, 219, 214);
+}
