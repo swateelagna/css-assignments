@@ -1,0 +1,12 @@
+h2 {
+  visibility: hidden;
+}
+#mySecondH2 {
+  display: none;
+}
+li {
+  display: inline;
+}
+strong {
+  display: block;
+}
